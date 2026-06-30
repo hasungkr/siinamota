@@ -3,4 +3,5 @@
     height: 60vh;
     background-image: url(./images/header.webp);
     background-size: cover;
+    align-content: center;
 }
