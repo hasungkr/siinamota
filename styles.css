@@ -3,6 +3,7 @@
     height: 90vh;
     background-image: url(./images/header.webp);
     background-size: cover;
+    border-radius: 15px;
 }
 
 .headertxt {
